@@ -1,2 +1,1 @@
-# Personal Portfolio in the making; stay tuned!...
-## ![testimg](https://github.com/Muhtoyyib/myFolio/blob/main/src/assets/profile.jpeg?raw=true)
+
